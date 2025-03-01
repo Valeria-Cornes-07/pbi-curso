@@ -5,5 +5,7 @@ Para ello se realizó la preparación de los datos mediante transformaciones des
 Los tres corresponden a los temas vistos en este curso.
 
 [Youtube](https://www.youtube.com/watch?v=pwJuFbyhZFE)
+
 [Youtube](https://www.youtube.com/watch?v=chu6sAn9ESk)
+
 [Youtube](https://www.youtube.com/watch?v=cfbkTRtyOLM)
